@@ -43,7 +43,7 @@ Clone this repo to your local machine using https://github.com/SushantAd/myRepo.
 We can run the code using 2 modes:
 #### IDE:
 For console inputs:
-![Run NextPallindrome.java](NextPallindrome/images/img1.jpg)
+![Run NextPallindrome.java](nextPallindrome/images/img1.jpg)
 
 ```
 Input 
@@ -53,7 +53,7 @@ Input
 ```
 
 For test values from File:
-![Run NextPalindromeFileInput.java](NextPallindrome/images/img2.jpg)
+![Run NextPalindromeFileInput.java](nextPallindrome/images/img2.jpg)
 
 
 #### Command Prompt:
@@ -80,7 +80,7 @@ I have used JUnit to run the tests. We can run the testcases using 2 modes:
 #### IDE
 Run NextPallindromeTest.java 
 
-![Run NextPallindromeTest.java](NextPallindrome/images/img3.jpg) 
+![Run NextPallindromeTest.java](nextPallindrome/images/img3.jpg) 
  
 #### Command Prompt
 
